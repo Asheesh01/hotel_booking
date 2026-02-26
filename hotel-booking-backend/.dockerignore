@@ -1,0 +1,13 @@
+target/
+mvnw
+mvnw.cmd
+.mvn/
+.git/
+.gitignore
+Dockerfile
+node_modules/
+.idea/
+.vscode/
+*.swp
+*.swo
+*.DS_Store
